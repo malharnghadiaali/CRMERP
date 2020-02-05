@@ -1,0 +1,62 @@
+C:\Users\Malhar\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\bin\Debug\CRMERP.exe.config
+C:\Users\Malhar\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\bin\Debug\CRMERP.exe
+C:\Users\Malhar\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\bin\Debug\CRMERP.pdb
+C:\Users\Malhar\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.csprojResolveAssemblyReference.cache
+C:\Users\Malhar\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.customermaster.resources
+C:\Users\Malhar\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.employeemaster.resources
+C:\Users\Malhar\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.home.resources
+C:\Users\Malhar\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.loginform.resources
+C:\Users\Malhar\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.masters.resources
+C:\Users\Malhar\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.Properties.Resources.resources
+C:\Users\Malhar\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.suppliermaster.resources
+C:\Users\Malhar\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.csproj.GenerateResource.Cache
+C:\Users\Malhar\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.exe
+C:\Users\Malhar\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.pdb
+F:\TYIT\CRM ERP PROJECT\Backup\CRMERP\CRMERP\bin\Debug\CRMERP.exe.config
+F:\TYIT\CRM ERP PROJECT\Backup\CRMERP\CRMERP\obj\Debug\CRMERP.exe
+F:\TYIT\CRM ERP PROJECT\Backup\CRMERP\CRMERP\obj\Debug\CRMERP.pdb
+C:\Users\Chirag Jain\source\repos\CRM-ERP-master\CRMERP\CRMERP\bin\Debug\CRMERP.exe.config
+C:\Users\Chirag Jain\source\repos\CRM-ERP-master\CRMERP\CRMERP\bin\Debug\CRMERP.exe
+C:\Users\Chirag Jain\source\repos\CRM-ERP-master\CRMERP\CRMERP\bin\Debug\CRMERP.pdb
+C:\Users\Chirag Jain\source\repos\CRM-ERP-master\CRMERP\CRMERP\obj\Debug\CRMERP.csprojAssemblyReference.cache
+C:\Users\Chirag Jain\source\repos\CRM-ERP-master\CRMERP\CRMERP\obj\Debug\CRMERP.customermaster.resources
+C:\Users\Chirag Jain\source\repos\CRM-ERP-master\CRMERP\CRMERP\obj\Debug\CRMERP.employeemaster.resources
+C:\Users\Chirag Jain\source\repos\CRM-ERP-master\CRMERP\CRMERP\obj\Debug\CRMERP.home.resources
+C:\Users\Chirag Jain\source\repos\CRM-ERP-master\CRMERP\CRMERP\obj\Debug\CRMERP.loginform.resources
+C:\Users\Chirag Jain\source\repos\CRM-ERP-master\CRMERP\CRMERP\obj\Debug\CRMERP.masters.resources
+C:\Users\Chirag Jain\source\repos\CRM-ERP-master\CRMERP\CRMERP\obj\Debug\CRMERP.Properties.Resources.resources
+C:\Users\Chirag Jain\source\repos\CRM-ERP-master\CRMERP\CRMERP\obj\Debug\CRMERP.suppliermaster.resources
+C:\Users\Chirag Jain\source\repos\CRM-ERP-master\CRMERP\CRMERP\obj\Debug\CRMERP.csproj.GenerateResource.cache
+C:\Users\Chirag Jain\source\repos\CRM-ERP-master\CRMERP\CRMERP\obj\Debug\CRMERP.csproj.CoreCompileInputs.cache
+C:\Users\Chirag Jain\source\repos\CRM-ERP-master\CRMERP\CRMERP\obj\Debug\CRMERP.csproj.CopyComplete
+C:\Users\Chirag Jain\source\repos\CRM-ERP-master\CRMERP\CRMERP\obj\Debug\CRMERP.exe
+C:\Users\Chirag Jain\source\repos\CRM-ERP-master\CRMERP\CRMERP\obj\Debug\CRMERP.pdb
+C:\Users\Malhar\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.productmaster.resources
+C:\Users\Malhar\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.brokermaster.resources
+C:\Users\Malhar\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.departmentmaster.resources
+C:\Users\Malhar\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.designationmaster.resources
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\bin\Debug\CRMERP.exe.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\bin\Debug\CRMERP.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\bin\Debug\CRMERP.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.brokermaster.resources
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.customermaster.resources
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.departmentmaster.resources
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.designationmaster.resources
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.employeemaster.resources
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.home.resources
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.loginform.resources
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.masters.resources
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.productmaster.resources
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.Properties.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.suppliermaster.resources
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.pdb
+C:\Users\Malhar\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.companyprofile.resources
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.companyprofile.resources
+C:\Users\Chirag Jain\source\repos\CRM-ERP-master\CRMERP\CRMERP\obj\Debug\CRMERP.brokermaster.resources
+C:\Users\Chirag Jain\source\repos\CRM-ERP-master\CRMERP\CRMERP\obj\Debug\CRMERP.companyprofile.resources
+C:\Users\Chirag Jain\source\repos\CRM-ERP-master\CRMERP\CRMERP\obj\Debug\CRMERP.departmentmaster.resources
+C:\Users\Chirag Jain\source\repos\CRM-ERP-master\CRMERP\CRMERP\obj\Debug\CRMERP.designationmaster.resources
+C:\Users\Chirag Jain\source\repos\CRM-ERP-master\CRMERP\CRMERP\obj\Debug\CRMERP.productmaster.resources
