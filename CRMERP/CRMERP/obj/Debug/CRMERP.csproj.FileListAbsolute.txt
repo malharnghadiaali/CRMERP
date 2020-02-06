@@ -60,3 +60,4 @@ C:\Users\Chirag Jain\source\repos\CRM-ERP-master\CRMERP\CRMERP\obj\Debug\CRMERP.
 C:\Users\Chirag Jain\source\repos\CRM-ERP-master\CRMERP\CRMERP\obj\Debug\CRMERP.departmentmaster.resources
 C:\Users\Chirag Jain\source\repos\CRM-ERP-master\CRMERP\CRMERP\obj\Debug\CRMERP.designationmaster.resources
 C:\Users\Chirag Jain\source\repos\CRM-ERP-master\CRMERP\CRMERP\obj\Debug\CRMERP.productmaster.resources
+C:\Users\Malhar\documents\visual studio 2015\Projects\CRMERP\CRMERP\obj\Debug\CRMERP.purchase.resources
