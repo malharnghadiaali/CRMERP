@@ -104,6 +104,18 @@
     <Compile Include="employeemaster.Designer.cs">
       <DependentUpon>employeemaster.cs</DependentUpon>
     </Compile>
+    <Compile Include="salesorder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="salesorder.Designer.cs">
+      <DependentUpon>salesorder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="viewall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewall.Designer.cs">
+      <DependentUpon>viewall.cs</DependentUpon>
+    </Compile>
     <Compile Include="home.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -185,8 +197,14 @@
     <EmbeddedResource Include="purchase.resx">
       <DependentUpon>purchase.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="salesorder.resx">
+      <DependentUpon>salesorder.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="suppliermaster.resx">
       <DependentUpon>suppliermaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewall.resx">
+      <DependentUpon>viewall.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -308,6 +326,9 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Icons\print.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
